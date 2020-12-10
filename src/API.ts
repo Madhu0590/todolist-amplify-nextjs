@@ -1,5 +1,5 @@
 /* tslint:disable */
-//  This file was automatically generated and should not be edited.
+//  This file was automatically generated and should not be asd edited.
 
 export type CreateTodoInput = {
   id?: string | null,
